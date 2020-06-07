@@ -4,8 +4,6 @@ This project is based on laravel framework.
 You can register as an employee:
 http://127.0.0.1:8000/register
 
-## You can engage in this project to make this more advanced and you can add new features.You contribution will be highly appreciated !!
-
 ## Installation
 This project is for employee management. Employee can register himself and employee can assign a salary for employee...
 
